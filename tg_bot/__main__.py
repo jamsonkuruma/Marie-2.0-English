@@ -20,22 +20,22 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+I'm a group iron gruop management bot maintained by  [this person](tg://user?id={}).
 
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
+Product by [CG](https://t.me/cgs_technology)[SL](https://t.me/SL_MEDIA_TECH_GRUOP)
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
-you can create clone same like me..
+This is my [father](https://t.me/Humangasor),
+I can mange you gruop powerfully😁..[🌹](https://telegra.ph//file/27415528ab8292a8677b8.jpg)
 
 For more commands click /help...
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+
 
 """
 
 HELP_STRINGS = """
 
-Hello! my name *{}*.
+Hello! my name *{}*.[🌷](https://telegra.ph//file/3b96becba15af78dfe196.jpg)
 
 *Main* available commands:
  - /start: Start the bot...
