@@ -22,9 +22,10 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 I'm a group iron gruop management bot maintained by  [this person](tg://user?id={}).
 
-Product by [CG](https://t.me/cgs_technology)[SL](https://t.me/SL_MEDIA_TECH_GRUOP)
+Product by CGSL TEAM 
 
-This is my [father](https://t.me/Humangasor),
+join my developrs gruops and shapport me :sl media tech :-@SL_MEDIA_TECH_GRUOP  cgs technology:- @cgs_technology
+
 I can mange you gruop powerfully😁..[🌹](https://telegra.ph//file/27415528ab8292a8677b8.jpg)
 
 For more commands click /help...
