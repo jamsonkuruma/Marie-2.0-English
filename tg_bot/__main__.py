@@ -18,13 +18,14 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}! if you have any questions about how to use me please give me /help [🌹](https://telegra.ph//file/27415528ab8292a8677b8.jpg)
+hi {}, my name is {}! if you have any questions about how to use me please give me /help [🌹](https://telegra.ph//file/27415528ab8292a8677b8.jpg)
 
 I'm a group iron gruop management bot maintained by  [this person](tg://user?id={})
 
 Product by CGSL TEAM 
 
-join my developrs gruops and shapport me : [⭐SL MEDIA TECH⭐](https://t.me/SL_MEDIA_TECH_GRUOP)  [⭐CGS TECHNOLOGY⭐](https://t.me/cgs_technology)
+join my developrs gruops and shapport me : 
+[⭐SL MEDIA TECH⭐](https://t.me/SL_MEDIA_TECH_GRUOP)  [⭐CGS TECHNOLOGY⭐](https://t.me/cgs_technology)
 
 I can manage you gruop powerfully😁.
 
